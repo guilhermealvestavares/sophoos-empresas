@@ -498,3 +498,16 @@ align-items: center;
     
     }
 
+
+    .azul-meio-mobile{
+        background-color:#0098da;
+     
+    }
+    
+    .content-azul-meio{
+        margin-right: 280px;
+        color:#fff;
+        font-size:2.5em;
+        background-color:#0098da;
+        }
+
